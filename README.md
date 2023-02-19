@@ -47,4 +47,4 @@ I'm learning about front end development with Angular and React
 
 <a href="https://github.com/camy2015" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camy2015&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camy2015)](https://github.com/camy2015/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camy2015&layout=compat)](https://github.com/camy2015/github-readme-stats)
