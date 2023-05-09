@@ -39,10 +39,11 @@ I'm learning about front end development with Angular and React
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/CamyGrbb"><img src="https://github-readme-stats.vercel.app/api?username=CamyGrbb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CamyGrbb's GitHub stats" /></a>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamyGrbb&show_icons=true&locale=en" alt="camy2015" /></p>
 <a href="http://www.github.com/CamyGrbb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CamyGrbb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/CamyGrbb"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CamyGrbb&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/CamyGrbb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamyGrbb&layout=compat&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamyGrbb&show_icons=true&locale=en&layout=compact" alt="camy2015" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camy2015&show_icons=true&locale=en" alt="camy2015" /></p>
 
