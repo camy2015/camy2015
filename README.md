@@ -8,7 +8,6 @@ I'm learning about front end development with Angular and React
 
 * 🌍  I'm based in Zipaquira Colombia
 * 🖥️  See my portfolio at [My portfolio](http://backend-portafolio-eta.vercel.app/)
-* ✉️  You can contact me at [cegor79@gmail.com](mailto:cegor79@gmail.com)
 * 🧠  I'm learning Angular and React
 * 🤝  I'm open to collaborating on Projects
 
